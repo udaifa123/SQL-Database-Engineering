@@ -17,4 +17,5 @@
 ## Concepts
 - ACID properties
 - Sequential Scan vs Index Scan
+
 - Query performance improvement
